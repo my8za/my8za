@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 <h1 align ="center">NEXT LEVEL</h1>
 <p align = "center">When you go through hardships and decide not to surrender, that is strength</p>
-<img src="https://img.shields.io/badge/Javascript-fac552?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Javascript-fac552?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-379ad6?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
 
