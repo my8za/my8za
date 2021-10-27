@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 </div>
 
 <br>
+<h3 align ="center">⋆⁺⋆｡🦋₊⋆°⋆</h3>
+<h3 align ="center">NEXT LEVEL</h3>
+<p align = "center">When you go through hardships and decide not to surrender, that is strength.</p>
+
 
 <h3 align ="center">• 🌛 •┈┈┈＊┈┈┈┈＊┈┈┈┈＊┈┈┈＊┈┈┈＊┈┈• 🌛 •</h3>
 
