@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 <h3 align ="center">⋆⁺⋆｡🦋₊⋆°⋆</h3>
 <h3 align ="center">• 🌛 •┈┈┈＊┈┈┈┈＊┈┈┈┈＊┈┈┈＊┈┈┈＊┈┈• 🌛 •</h3>
+<p align = "center">When you go through hardships and decide not to surrender, that is strength.</p>
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=4bc0b0&height=200&section=header&width:100%)
@@ -30,9 +31,6 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
-
-<p align = "center">When you go through hardships and decide not to surrender, that is strength.</p>
 
 
 <h3 align ="center">• 🌛 •┈┈┈＊┈┈┈┈＊┈┈┈┈＊┈┈┈＊┈┈┈＊┈┈• 🌛 •</h3>
