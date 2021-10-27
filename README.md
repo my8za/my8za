@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 <p align = "center">When you go through hardships and decide not to surrender, that is strength</p>
 <img src="https://img.shields.io/badge/Javascript-fac552?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Css&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/HTML-1572B6?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
+
 
