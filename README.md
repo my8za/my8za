@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=4bc0b0&height=200&section=header&width:100%)
 
 
-<h4 align ="center">:space_invader:NEXT LEVEL:space_invader:</h4>
+<h4 align ="center" font-weight="900">:space_invader:NEXT LEVEL:space_invader:</h4>
 <p align = "center">When you go through hardships and decide not to surrender, that is strength</p>
 <br>
 <div display ="flex" align="center">
