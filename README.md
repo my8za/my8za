@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=4bc0b0&height=300&section=footer&)
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=4bc0b0&height=300&section=header&text=JUNG%20HYEJI&fontSize=90)
 
 
 <h1 align ="center">NEXT LEVEL</h1>
@@ -28,4 +27,4 @@ Here are some ideas to get you started:
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=4bc0b0&height=300&section=header&text=JUNG%20HYEJI&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=4bc0b0&height=300&section=footer)
