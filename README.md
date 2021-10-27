@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=2c383b&height=150&section=footer&width="100%")
+![footer](https://capsule-render.vercel.app/api?type=slice&color=898b8c&height=150&section=footer&width="100%")
