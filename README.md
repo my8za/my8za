@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=2c383b&height=200&section=header&text=JUNG%20HYEJI&fontSize=90&animation= twinkling : twinkling 4s&fontColor=4bc0b0&width:100%;)
+![header](https://capsule-render.vercel.app/api?type=slice&color=2c383b&height=200&section=header&text=JUNG%20HYEJI&fontSize=90&animation= twinkling&fontColor=4bc0b0&width:100%;)
 
 
 <h1 align ="center">NEXT LEVEL</h1>
