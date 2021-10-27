@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=slice&color=4bc0b0&height=200&section=header&width:100%)
 
-
+<h3 align ="center">⋆⁺⋆｡🦋₊⋆°⋆</h3>
 <h3 align ="center">:space_invader: NEXT LEVEL :space_invader:</h3>
 <p align = "center">When you go through hardships and decide not to surrender, that is strength</p>
 <br>
