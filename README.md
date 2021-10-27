@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=a4a4a4&height=100&section=footer&width="100%")
+![footer](https://capsule-render.vercel.app/api?type=slice&color=cccccc&height=100&section=footer&width="100%")
