@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<p align = "center">When you go through hardships and decide not to surrender, that is strength</p>
-
 <br>
 
 <h3 align ="center">• 🌛 •┈┈┈＊┈┈┈┈＊┈┈┈┈＊┈┈┈＊┈┈┈＊┈┈• 🌛 •</h3>
