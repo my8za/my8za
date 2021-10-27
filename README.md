@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=slice&color=4bc0b0&height=200&section=header&width:100%)
 
 
+<h3 align ="center">⋆⁺⋆｡🦋₊⋆°⋆</h3>
 <h3 align ="center">Tech Stack</h3>
 <div display ="flex" align="center">
   <img src="https://img.shields.io/badge/Javascript-fac552?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3 align ="center">⋆⁺⋆｡🦋₊⋆°⋆</h3>
+<h3 align ="center">• 🌛 •┈┈┈＊┈┈┈┈＊┈┈┈┈＊┈┈┈＊┈┈┈＊┈┈• 🌛 •</h3>
 <h3 align ="center">NEXT LEVEL</h3>
 <p align = "center">When you go through hardships and decide not to surrender, that is strength</p>
 
