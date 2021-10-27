@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=2c383b&height=200&section=footer&width="100%")
+![footer](https://capsule-render.vercel.app/api?type=slice&color=2c383b&height=150&section=footer&width="100%")
