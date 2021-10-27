@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=7fc4d6&height=200&text=NEXT-LEVEL&fontSize=35&fontAlign=80&fontColor=ffffff&section=header&animation=twinkling&fontAlignY=35)
 
 
-<h3 align ="center">:wrench: Tech Stack :wrench:</h3>
+<h3 align ="center">⚒️ Tech Stack ⚒️</h3>
 <div display ="flex" align="center">
   <img src="https://img.shields.io/badge/Javascript-fac552?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
