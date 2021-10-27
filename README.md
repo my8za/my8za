@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align = "center">When you go through hardships and decide not to surrender, that is strength.</p>
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=a7d6e2&height=200&text=NEXT-LEVEL&fontSize=40&fontAlign=70&section=header&width:100%)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=a7d6e2&height=200&text=NEXT-LEVEL&fontSize=35&fontAlign=70&fontColor= ffffff&section=header&width:100%)
 
 
 <h3 align ="center">:wrench: Tech Stack :wrench:</h3>
