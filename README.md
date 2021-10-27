@@ -11,13 +11,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3 align ="center">⋆⁺⋆｡🦋₊⋆°⋆</h3>
 <h3 align ="center">• 🌛 •┈┈┈＊┈┈┈┈＊┈┈┈┈＊┈┈┈＊┈┈┈＊┈┈• 🌛 •</h3>
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=4bc0b0&height=200&section=header&width:100%)
 
 
-<h3 align ="center">⋆⁺⋆｡🦋₊⋆°⋆</h3>
+<h3 align ="center">LEVEL : ▁▂▃▄▅▆▇▉</h3>
 <h3 align ="center">Tech Stack</h3>
 <div display ="flex" align="center">
   <img src="https://img.shields.io/badge/Javascript-fac552?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
