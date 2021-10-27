@@ -26,6 +26,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 </div>
 
+
+
+<br>
+<h3 align ="center">NEXT LEVEL</h3>
+<p align = "center">When you go through hardships and decide not to surrender, that is strength</p>
+
 <br>
 
 <h3 align ="center">• 🌛 •┈┈┈＊┈┈┈┈＊┈┈┈┈＊┈┈┈＊┈┈┈＊┈┈• 🌛 •</h3>
