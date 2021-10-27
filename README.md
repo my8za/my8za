@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 
 
 <h1 align ="center">NEXT LEVEL</h1>
+<p align = "center">When you go through hardships and decide not to surrender, that is strength</p>
