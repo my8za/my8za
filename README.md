@@ -29,10 +29,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Javascript-fac552?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+  
+  <br>
+  <a href="https://github.com/my8za"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+  
 </div>
 
-<br>
-<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+
 
 
 
