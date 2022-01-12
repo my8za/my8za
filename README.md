@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-<a href="https://github.com/my8za"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+<img align="center" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 
 
 
