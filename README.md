@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align ="center">🛠 Tech Stack 🛠</h3>
 <p align ="center">Techs that I've used at least once</p>
 <div display ="flex" align="center">
-  <img src="https://img.shields.io/badge/Javascript-fac552?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-fac552?style=flat-square&logo=Javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
