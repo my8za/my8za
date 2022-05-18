@@ -24,10 +24,9 @@ Here are some ideas to get you started:
   <a href="https://github.com/my8za"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 -->
 
-<!-- 
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7fc4d6&height=150&text=
 Reckless developer&fontSize=30&fontAlign=85&fontColor=ffffff&section=header&animation=twinkling&fontAlignY=30) 
--->
 
 
 <h3 align ="center">🛠 Tech Stack 🛠</h3>
