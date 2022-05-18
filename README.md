@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7fc4d6&height=150&text=
-Reckless developer&fontSize=30&fontAlign=85&fontColor=ffffff&section=header&animation=twinkling&fontAlignY=30) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=7fc4d6&height=150&fontSize=30&fontAlign=85&fontColor=ffffff&section=header&animation=twinkling&fontAlignY=30) 
 
 
 <h3 align ="center">🛠 Tech Stack 🛠</h3>
