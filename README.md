@@ -39,7 +39,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   
   <h3 align ="center">• 🌛 •┈┈┈＊┈┈┈┈＊┈┈┈┈＊┈┈┈＊┈┈┈＊┈┈• 🌛 •</h3>
-  
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=my8za&layout=compact)](https://github.com/my8za/github-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=my8za)](https://velog.io/@my8za)
+
+
 </div>
 
 
