@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 <p align ="center">Techs that I've used at least once</p>
 <div display ="flex" align="center">
   
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-fac552?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/JavaScript-fac552?style=flat-square&logo=Javascript&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> &nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> &nbsp 
   
   <br>
  
