@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <h3 align ="center">🛠 Tech Stack 🛠</h3>
 <p align ="center">Techs that I've used at least once</p>
 <div display ="flex" align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
+  <!-- <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp -->
+  <!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-fac552?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp 
